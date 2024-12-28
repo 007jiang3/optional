@@ -1,0 +1,38 @@
+# Ignore build files
+/build/
+/dist/
+/out/
+
+# Ignore dependency directories
+/node_modules/
+/bower_components/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore compiled files
+*.o
+*.obj
+*.dll
+*.exe
+*.so
+*.dylib
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userossc
+*.sln.docstates
+
+# Ignore other unwanted files
+*.swp
+*.bak
+*.tmp
+*.old
+*.orig
